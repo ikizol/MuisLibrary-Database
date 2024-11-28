@@ -48,7 +48,8 @@ VALUES
 ('Pop'),
 ('Rock'),
 ('Hip-Hop'),
-('R&B');
+('R&B'),
+('Country');
 
 CREATE TABLE Albums (
     album_id INT AUTO_INCREMENT PRIMARY KEY,
